@@ -1,1 +1,0 @@
-{"version":3,"sources":["App.scss"],"names":[],"mappings":"AACA,GACE,eAAgB,CACjB,UAGC,qBAAwB","file":"main.44ce29ec.chunk.css","sourcesContent":["// styles go here\nli {\n  list-style: none;\n}\n\n.selected {\n  background-color: yellow;\n}\n"]}
